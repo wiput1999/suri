@@ -8,6 +8,9 @@ doesn't want a server (or "serverless" 🙄), or even a database for that matter
 Suri just wants a static site to get the job done – easy to deploy, and free to
 host in a number of places.
 
+This project was modified from
+[https://github.com/jstayton/suri](https://github.com/jstayton/suri)
+
 ## Getting Started
 
 ### Manage Links
